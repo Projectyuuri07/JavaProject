@@ -1,3 +1,3 @@
 # JavaProject
 
-Jogo de adiinhação de um número gerado aleatoriamente entre 0 e 100
+Jogo de adivinhação de um número gerado aleatoriamente entre 0 e 100
